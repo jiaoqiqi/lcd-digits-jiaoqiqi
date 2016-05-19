@@ -18,3 +18,16 @@ Example: 910
 |_| ..| |.|
 ..| ..| |_|
 ```
+
+/*function getLCDLines(numbersArr,LCDNumber) {
+
+    var LCDLines='';
+
+    for(var i=0 ; i<numbersArr.length ; i++)
+    {
+        LCDLines+=LCDNumber[numbersArr[i]];
+    }
+
+    return LCDLines;
+}
+*/
